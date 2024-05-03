@@ -1,0 +1,6 @@
+[submodule "WindowsSystem-Backend"]
+	path = WindowsSystem-Backend
+	url = https://github.com/dattali18/WindowsSystem-Backend.git
+[submodule "WindowsSystem-Frontend"]
+	path = WindowsSystem-Frontend
+	url = https://github.com/dattali18/WindowsSystem-Frontend.git
